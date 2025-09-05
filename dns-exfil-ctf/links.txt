@@ -1,0 +1,7 @@
+https://book.hacktricks.wiki/en/generic-methodologies-and-resources/pentesting-wifi/evil-twin-eap-tls.html
+https://wiki.wireshark.org/SampleCaptures#smb-direct
+https://scapy.net/
+https://infosecwriteups.com/how-to-make-our-own-ctf-challenge-with-ease-6b15f76865b5
+https://hatsoffsecurity.com/2020/05/27/how-to-create-a-good-security-ctf/
+https://hackrocks.com/blog/tips-and-tactics-for-creating-your-own-capture-the-flag-ctf#-forensics
+https://www.akamai.com/glossary/what-is-dns-data-exfiltration

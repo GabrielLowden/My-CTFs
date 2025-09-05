@@ -1,0 +1,5 @@
+Our threat hunting team intercepted a suspicious packet capture from an internal workstation. The analyst who collected it suspects something was exfiltrated, but the data appears to be hidden in plain sight.
+
+Analyze the file provided and identify what data was exfiltrated. 
+
+Flag format: flag{xxxxxx}
